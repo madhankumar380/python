@@ -110,6 +110,7 @@ else:
     print("Fail")
 # o/p: (depends on user input) 
 
+# qus-4 (profit or loss)
 x=int(input("enter the total cost=:"))
 y=int(input("enter the sold cost=:"))
 profit=y-x
